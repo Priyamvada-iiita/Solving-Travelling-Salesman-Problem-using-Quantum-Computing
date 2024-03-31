@@ -15,3 +15,5 @@ At first glance, neither gate model quantum computers nor D-Wave Quantum Process
 As technology advances, there is potential for quantum solutions to outperform classical methods, especially as quantum computing matures. The prospect of overcoming classical limitations in tackling complex optimization problems, like the TSP, remains an exciting avenue for future exploration and development.
 
 While still developing, quantum computing's transformative potential spans various industries. Recent accessibility enhancements, exemplified by tools like Qiskit, enable broader exploration and experimentation. Quantum computing is no longer a distant concept but an emerging reality with the capacity to revolutionize diverse fields.
+
+Refer Report.pdf and presentation.pdf for more information
